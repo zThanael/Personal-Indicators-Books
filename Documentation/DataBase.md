@@ -8,9 +8,8 @@ My intent is use this database in all the parts of the Personal Indicators proje
 
 <p> <strong><i>
 So to understand about the data structure of this project about books, I will put a image of the ERD (Entity Relationship Diagram)
-</i></strong></p>
-<br>
-<center> 
+</i></strong></p> 
+<p align="center">
 <h2> Entity Relationship Diagram </h2>
 <img src='erd.png'> 
-</center>
+</p>
