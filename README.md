@@ -4,7 +4,7 @@ Personal Indicators is a project that I'm doing that consists in create indicato
 </p>
 
 <p> <strong><i>
-So I divised this project in tree grand steps.
+So I divised this project in three grand steps.
 </i></strong></p>
 
 
