@@ -32,7 +32,7 @@ The part of the Books in this project consists in <strong> create a API to do th
 
 <br>
 
-<blockquote>To understand more about this <strong><u> <a> click here to see the documentation </a></u></strong> </blockquote>
+<blockquote>To understand more about this <strong><u> <a href='https://github.com/zThanael/Personal-Indicators-Books/blob/main/Documentation/DataBase.md'> click here to see the documentation </a></u></strong> </blockquote>
 </p>
 
 <li> <h3> <strong> API </strong> </h3> </li>
@@ -44,7 +44,7 @@ The part of the Books in this project consists in <strong> create a API to do th
 <br>
 
 
-<blockquote>To understand more about this  <strong><u> <a href='./Documentation/Api.md'> click here to see the documentation </a></u></strong> </blockquote>
+<blockquote>To understand more about this  <strong><u> <a href='https://github.com/zThanael/Personal-Indicators-Books/blob/main/Documentation/Api.md'> click here to see the documentation </a></u></strong> </blockquote>
 </p>
 
 <li> <h3> <strong> Power BI </strong> </h3> </li>
@@ -55,19 +55,26 @@ The part of the Books in this project consists in <strong> create a API to do th
 
 <br>
 
-<blockquote>To understand more about this  <strong><u> <a> click here to see the documentation </a></u></strong> </blockquote></p>
+<blockquote>To understand more about this  <strong><u> <a href='https://github.com/zThanael/Personal-Indicators-Books/blob/main/Documentation/PowerBI.md'> click here to see the documentation </a></u></strong> </blockquote></p>
 
 </ol>
 
 <hr>
 
 <h1> Knowledges acquired </h1>
+<p> 
+During the development of this project I improve my knowledge about all the context of creation API and outhers technologies like:
+</p>
 <ul>
 <li> Creations of <strong> API's </strong> with <strong> Node.js </strong> and <strong> Sequelize. </strong> </li>
 <li> <strong> Express </strong></li>
+<li> <strong> Postman </strong></li>
 <li> <strong> PostgreSQL </strong></li>
-<li> <strong> SQL </strong></li>
 <li> <strong> Power BI </strong></li>
 <li> <strong> Business Inteligence </strong></li>
 </ul>
 
+<hr>
+
+<h1> Results </h1>
+<p> I'm still doing the development the dashboards, so i need finish it first to complete this topic... </p>
