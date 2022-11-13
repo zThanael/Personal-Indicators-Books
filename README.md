@@ -44,7 +44,7 @@ The part of the Books in this project consists in <strong> create a API to do th
 <br>
 
 
-<blockquote>To understand more about this  <strong><u> <a> click here to see the documentation </a></u></strong> </blockquote>
+<blockquote>To understand more about this  <strong><u> <a href='./Documentation/Api.md'> click here to see the documentation </a></u></strong> </blockquote>
 </p>
 
 <li> <h3> <strong> Power BI </strong> </h3> </li>
