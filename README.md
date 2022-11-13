@@ -7,6 +7,8 @@ Personal Indicators is a project that I'm doing that consists in create indicato
 So I divised this project in tree grand steps.
 </i></strong></p>
 
+
+
 <ol>
 <li> <h3> <strong> Books </strong> </h3> </li>
 <li> <h3> <strong> Exercises </strong> </h3> </li>
@@ -20,22 +22,41 @@ So I divised this project in tree grand steps.
 <p>  
 The part of the Books in this project consists in <strong> create a API to do the CRUD in a Database </strong> and after that I will start to create Dashboards to visualize and get insights about the books that I read
 </p>
-<p> This project is divised in <strong> two parts </strong>
+<p> This project is divised in <strong> three parts </strong>
 
 <ol>
 <li> <h3> <strong> Database </strong> </h3> </li>
 <p> This part consist in a creation of a Database in <b> PostgreSQL </b> <br>
-<blockquote>To understand more about this <strong><u> <a> click here to see the documentation </a></u></strong> </blockquote>
 
+- [x] Completed!  
+
+<br>
+
+<blockquote>To understand more about this <strong><u> <a> click here to see the documentation </a></u></strong> </blockquote>
+</p>
 
 <li> <h3> <strong> API </strong> </h3> </li>
 
 <p> This part consist in a creation of a API using <strong> Node.js </strong> and <strong> PostgreSQL. </strong> <br>
+
+- [x] Completed!  
+
+<br>
+
+
 <blockquote>To understand more about this  <strong><u> <a> click here to see the documentation </a></u></strong> </blockquote>
+</p>
 
 <li> <h3> <strong> Power BI </strong> </h3> </li>
 <p> This part consist in a creation of the <strong> Dashboard </strong> in <strong> Power BI </strong> <br>
-<blockquote>To understand more about this  <strong><u> <a> click here to see the documentation </a></u></strong> </blockquote>
+
+
+- [ ] Completed!  
+
+<br>
+
+<blockquote>To understand more about this  <strong><u> <a> click here to see the documentation </a></u></strong> </blockquote></p>
+
 </ol>
 
 <hr>
@@ -48,4 +69,5 @@ The part of the Books in this project consists in <strong> create a API to do th
 <li> <strong> SQL </strong></li>
 <li> <strong> Power BI </strong></li>
 <li> <strong> Business Inteligence </strong></li>
+</ul>
 
