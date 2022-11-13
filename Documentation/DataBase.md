@@ -9,7 +9,7 @@ My intent is use this database in all the parts of the Personal Indicators proje
 <p> <strong><i>
 So to understand about the data structure of this project about books, I will put a image of the ERD (Entity Relationship Diagram)
 </i></strong></p> 
+<h2 align="center"> Entity Relationship Diagram </h2>
 <p align="center">
-<h2> Entity Relationship Diagram </h2>
 <img src='erd.png'> 
 </p>
